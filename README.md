@@ -1,2 +1,2 @@
-# rock_paper_scissor
-A simple rock, paper, scissor game which was coded using python
+# Number Guessing game
+A simple number guessing game coded with python
