@@ -1,0 +1,4 @@
+random.randrange(start, stop) - does not include the stop number. It is the uppermost bound 
+random.randint(start, stop) - includes the stop number
+string to int --> use int()
+check if number --> use isdigit
